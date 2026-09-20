@@ -1,0 +1,10 @@
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/Main.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/codegen/FabricContractProjectGeneratorV2.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/model/BpmnFlow.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/model/BpmnNode.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/model/BpmnNodeType.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/model/BpmnProcessModel.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/parser/BpmnParser.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/simulation/ProcessSimulationHarness.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/util/NameUtils.java
+/mnt/d/Janko/000_DR_vol2/DRnaloga/Program/bpmn2hyperledgersc/bpmn-smartc-generator-v2/src/main/java/com/bpmntosmartc/generator/v2/validation/BpmnValidator.java
